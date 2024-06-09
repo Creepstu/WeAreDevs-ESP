@@ -1,8 +1,8 @@
-	_G.WRDESPEnabled = true --Enables the ESP (Defaults to true)
-	_G.WRDESPBoxes = true --Draws boxes around other players (Defaults to true)
-	_G.WRDESPTeamColors = true --Distinguish different teams by their team color. If the game sets one. (Defaults to true)
-	_G.WRDESPTracers = false --Displays lines leading to other players (Defaults to false)
-	_G.WRDESPNames = true --Displays the names of the players within the ESP box (Defaults to true)
+	_G.WRDESPEnabled = true
+	_G.WRDESPBoxes = true
+	_G.WRDESPTeamColors = true
+	_G.WRDESPTracers = false
+	_G.WRDESPNames = true
 
 	if not _G.WRDESPLoaded then    
 
